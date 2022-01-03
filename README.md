@@ -50,6 +50,8 @@ Go back to your bot folder, and run botstart.bat
 
 Bot is now live as long as 'botstart.bat' is running!
 
+type 's!info' for it to send smth
+
 Enjoy!
 
 

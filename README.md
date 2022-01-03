@@ -46,7 +46,9 @@ It should be on your server, but offline.
 
 Go back to your bot folder, and run botstart.bat
 ![image](https://user-images.githubusercontent.com/86526585/147914621-61a4d086-4439-41de-b27c-e94783cc8b10.png)
+
 ![image](https://user-images.githubusercontent.com/86526585/147914667-389c063a-4400-40a8-96d2-fd3bdff24bc8.png)
+
 
 Bot is now live as long as 'botstart.bat' is running!
 

@@ -57,3 +57,9 @@ type 's!info' for it to send smth
 Enjoy!
 
 
+# COMMANDS
+s!help - Displays Help
+s!info - Displays info
+s!link - Displays link of this site.
+
+

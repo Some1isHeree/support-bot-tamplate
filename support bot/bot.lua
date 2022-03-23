@@ -13,7 +13,7 @@ end)
 
 client:on('messageCreate', function(message)
 	if message.content == 's!help' then
-		message.channel:send('s!help - Displays Commands\ns!info - Displays info\ns!link - Create your own support bot!')
+		message.channel:send('s!help - Displays Commands\ns!info - Displays info about user\ns!link - Create your own support bot!')
 	end
 end)
 
